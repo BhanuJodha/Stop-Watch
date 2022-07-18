@@ -12,7 +12,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-This is a simple timmer watch which have some basic functionality like :-
+This is a simple stop watch which have some basic functionality like :-
     * Start the timer
     * Pause/Stop the timer
     * Reset the timer
